@@ -1,10 +1,10 @@
+![logo](https://github.com/Duakhan106/frontend-starter-kit/blob/main/WhatsApp%20Image%202025-05-02%20at%205.42.58%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm dua khan</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <p align="right" alt="coding"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duakhan106&label=Profile%20views&color=0e75b6&style=flat" alt="duakhan106" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duakhan106" alt="duakhan106" /></a> </p>
 
 - 🌱 I’m currently learning **web wizard**
 
